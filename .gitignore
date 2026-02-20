@@ -79,3 +79,5 @@ tmp/
 application-local.yml
 application-local.properties
 .env
+config.sh
+.env
