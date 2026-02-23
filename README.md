@@ -1,4 +1,4 @@
-﻿# javabeans-ia
+﻿# javabeans-i
 
 MVP inicial do simulador JavaBeans com IA (futuro Azure OpenAI).
 
