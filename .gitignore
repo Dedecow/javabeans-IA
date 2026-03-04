@@ -81,3 +81,6 @@ application-local.properties
 .env
 config.sh
 config.ps1
+
+### Meus Arquivos Temporarios ###
+cookies.txt
